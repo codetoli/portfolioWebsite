@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Footer from "../components/Footer";
-import { services } from "../index";
+import { services } from "../data";
 
 const icons = {
   "generative-ai": "✦",

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Footer from "../components/Footer";
-import { services, team } from "../index";
+import { services, team } from "../data";
 
 const Home = ({ setCurrentPage }) => {
   const [activeService, setActiveService] = useState(0);

@@ -1,5 +1,5 @@
 import Footer from "../components/Footer";
-import { posts } from "../index";
+import { posts } from "../data";
 
 const categoryColors = {
   "Generative AI": { bg: "rgba(27,67,50,0.07)", text: "#1B4332" },
